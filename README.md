@@ -1,1 +1,1 @@
-![heard you, dear](pics/heard_you.jpg)
+<img src="pics/heard_you.jpg" alt="heard you, dear" width="50%">
